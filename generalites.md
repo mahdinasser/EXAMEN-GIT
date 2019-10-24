@@ -10,7 +10,7 @@ la commande "touch" cree le fichier dans git
 la commande echo"---"> fichier pour creer un titre par exemple dans un fichier
 git add . pour ajouter un fichier dans la zone index.
 Pour desindexer un fichier on utilise git rm --cached fichier.
-git rm fichier pour supprimer ce fichier.
+rm fichier pour supprimer ce fichier.
 git status --ignored pour voir les fichiers supprimes.
 
 git mv permet de renommer un fichier.
